@@ -21,5 +21,4 @@ public class FlowerService {
     public List<Flower> getAllFlowers() {
         return new ArrayList<>();
     }
-
 }

@@ -1,6 +1,6 @@
 # Exercise 1
 
-Run **only** the test method `given2Flowers_whenInvokingGetFlower_then2FlowersAreReturned`
+Run **only** the test method `given3Flowers_whenInvokingGetFlower_then3FlowersAreReturned`
 
 As you can see, it fails:
 - Why does it fail?

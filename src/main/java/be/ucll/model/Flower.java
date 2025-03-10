@@ -1,6 +1,7 @@
 package be.ucll.model;
 
 public class Flower {
+
     private String name;
     private String color;
 
@@ -8,5 +9,4 @@ public class Flower {
         this.name = name;
         this.color = color;
     }
-
 }
